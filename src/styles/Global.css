@@ -1,0 +1,26 @@
+html,
+body {
+  color: white;
+  background-color: rgb(0, 0, 0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: grey black;
+}
+::-webkit-scrollbar {
+  width: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+}
+::-webkit-scrollbar-thumb {
+  background-color: grey;
+  border-radius: 20px;
+  border: 1px solid #000;
+}
+
