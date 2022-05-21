@@ -3,6 +3,8 @@
 
 This App is made using [React](https://reactjs.org/) and [Vite cli](https://vitejs.dev/guide/).
 
+![Capture](https://user-images.githubusercontent.com/60794694/169644304-c475a9f9-4c9c-4769-9e86-4c19babbdad4.JPG)
+
 ## About
 
 Originally made this app with class based components to get the idea of it , later shifted back to function based components. Main reasons of making this app were to get the gist of class based components and get to play with other feaures like **Infinite Scroll Bar** and **Top loading Bar** which are simple but adds flavour to the application. I aslo wanted to get Expirence of [Mantine component Based library](https://mantine.dev/) , Similary to MUI , it provides lot of features and helps making the app presentable.The whole expirence was fun to work with.
